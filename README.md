@@ -13,5 +13,4 @@ In 2017 I graduated as a Computer Engineer from the Faculty of Engineering (Udel
 
 In 2021 I joined the [SoftTero](https://softtero.com) project whose goal is to be a company that provides IT services such as custom software solutions, outsourcing and consulting.
 
-This 2022 I began to study the master's degree in data science and machine learning at FING-UdelaR.
-
+In 2022 I began to study the master's degree in data science and machine learning at FING-UdelaR.
