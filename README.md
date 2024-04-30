@@ -1,7 +1,7 @@
 # Ing. Cristian Bauza :computer:
 
 - Computer Engineer.
-- Co-Founder [SoftTero](https://softtero.com).
+- Co-Founder [White Monkey](https://whitemonkey.io).
 - Career Coordinator (Technologist Informatic) at UTEC.
 - Software Architect and Team Leader at AMSJ.
 
